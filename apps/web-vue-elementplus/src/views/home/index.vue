@@ -2,6 +2,7 @@
 
 <template>
   <div>home</div>
+  <div>home</div>
 </template>
 
 <style scoped></style>

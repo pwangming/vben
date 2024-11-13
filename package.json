@@ -1,0 +1,25 @@
+{
+  "name": "vben-admin-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "pengwangming",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "catalog:"
+  },
+  "packageManager": "pnpm@9.12.3",
+  "engines": {
+    "node": ">=20.10.0",
+    "pnpm": ">=9.5.0"
+  },
+  "dependencies": {
+    "husky": "^9.1.6"
+  }
+}
